@@ -5,6 +5,7 @@
 pkgdatadir = @YAST2DEVTOOLS@/bin
 
 dist_pkgdata_SCRIPTS = 				\
+	create-new-package \
 	check_icons				\
 	check-textdomain			\
 	find-unused-published			\
